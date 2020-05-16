@@ -1,12 +1,13 @@
 # Jaga.in
 
 ## Nama kelompok dan anggota :
-Annisa Faradila	G64180074
-Arrazzaq Adrian	G64180109
-Hudzaifah Muttaqin G64180119
+-Annisa Faradila	G64180074 <br/>
+-Arrazzaq Adrian	G64180109 <br/>
+-Hudzaifah Muttaqin	G64180119 <br/>
 
 # Ringkasan
-Mobile Apps ini berawal dari salah satu keresahan mengenai pelayanan kesehatan di daerah lingkungan kampus IPB Dramaga . IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen sehingga pada beberapa wilayah yang masih berada di sekitar cakupan kampus IPB menjadi rawan dan beberapa faktor lainnya menyebabkan mahasiswa maupun pelintas yang melalui jalan raya rentan mengalami kecelakaan yang cukup tinggi.Selain itu beberapa mahasiswa terkadang kesulitan untuk mendapatkan akses kesehatan terutama dalam hal pemesanan ambulance.
+Mobile Apps ini berawal dari salah satu keresahan mengenai pelayanan kesehatan di daerah lingkungan kampus IPB Dramaga . 
+IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen sehingga pada beberapa wilayah yang masih berada di sekitar cakupan kampus IPB menjadi rawan dan beberapa faktor lainnya menyebabkan mahasiswa maupun pelintas yang melalui jalan raya rentan mengalami kecelakaan yang cukup tinggi.Selain itu beberapa mahasiswa terkadang kesulitan untuk mendapatkan akses kesehatan terutama dalam hal pemesanan ambulance.
 
 # Latar Belakang 
 Kesehatan merupakan salah satu sektor yang menjadi fokus utama pembangunan pemerintah di Indonesia (Rappler, 2017). Berbagai upaya pemerintah dalam pembangunan di bidang kesehatan telah dilakukan. Mulai dari pemberian subsidi biaya kesehatan, peningkatan sumber daya manusia di sektor kesehatan, peningkatan sumber daya obat dan perbekalan kesehatan, pemberdayaan masyarakat, serta perbaikan manajemen kesehatan (Usman, Widhyharto, & Maika). Pelayanan kesehatan yang baik menjadi salah satu dambaan masyarakat. Mulai dari pelayanan dalam perawatan maupun sampai dengan penyaluran informasi. Namun Prosedur pemberian layanan kesehatan masih terkesan sulit dan membingungkan bagi sebagian orang sehingga penanganan pasien oleh tenaga kesehatan menjadi lambat (Rahim, 2016). Selain itu, masih sulitnya mencari bantuan layanan kesehatan serta aplikasi layanan kesehatan yang belum sesuai harapan (Peraturan Menteri kesehatan, 2017) dan masih banyak masalah-masalah lainnya sehingga diperlukan sebuah cara untuk mengatasi masalah tersebut, meskipun Bidang perawatan sudah diwadahi banyak rumah sakit ataupun lembaga kesehatan lainnya. Namun, segi penyaluran informasi belum sepenuhnya  terpenuhi dengan baik, seperti lokasi dan nomer telfon dari rumah sakit, posko darurat, serta ambulan terdekat. Keadaan mendesak tidak jarang membuat orang sulit berpikir jernih, hal ini menyebabkan suatu masalah menjadi semakin parah dan sulit teratasi. 

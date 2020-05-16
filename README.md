@@ -74,9 +74,9 @@ DESKRIPSI ERD NYA
 
 #### Hasil implementasi perangkat lunak
 
->**Final Mockup :
+>Final Mockup :
 https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&scaling=scale-down
-
+  
 ![gambar](gambar/SS1.png)
 ![gambar](gambar/SS2.png)
 ![gambar](gambar/SS3.png)

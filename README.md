@@ -1,6 +1,6 @@
-**#Jaga.in
+# Jaga.in
 
-# Nama Anggota Kelompok 4 :
+**Nama Anggota Kelompok 4 :
 -Annisa Faradila	#G64180074 <br/>
 -Arrazzaq Adrian	#G64180109 <br/>
 -Hudzaifah Muttaqin	#G64180119 <br/>

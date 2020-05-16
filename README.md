@@ -3,7 +3,7 @@
 ## Nama kelompok dan anggota :
 Annisa Faradila	G64180074
 Arrazzaq Adrian	G64180109
-Hudzaifah Muttaqin	G64180119
+Hudzaifah Muttaqin G64180119
 
 # Ringkasan
 Mobile Apps ini berawal dari salah satu keresahan mengenai pelayanan kesehatan di daerah lingkungan kampus IPB Dramaga . IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen sehingga pada beberapa wilayah yang masih berada di sekitar cakupan kampus IPB menjadi rawan dan beberapa faktor lainnya menyebabkan mahasiswa maupun pelintas yang melalui jalan raya rentan mengalami kecelakaan yang cukup tinggi.Selain itu beberapa mahasiswa terkadang kesulitan untuk mendapatkan akses kesehatan terutama dalam hal pemesanan ambulance.
@@ -64,7 +64,6 @@ DESKRIPSI ERD NYA
 
 ![GAMBAR ERD NYA](gambar/2.png)
 
-## Activity diagram
 
 ## Hasil implementasi perangkat lunak
 

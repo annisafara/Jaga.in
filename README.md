@@ -1,11 +1,11 @@
 # Jaga.in
 
-## Nama Anggota Kelompok 4 :
+#### Nama Anggota Kelompok 4 :
 -Annisa Faradila  	**G64180074** <br/>
 -Arrazzaq Adrian  	**G64180109** <br/>
 -Hudzaifah Muttaqin	**G64180119** <br/>
 
-### Ringkasan<br/>
+#### Ringkasan<br/>
    
    *Mobile Apps* ini berawal dari salah satu keresahan mengenai pelayanan kesehatan di daerah lingkungan kampus IPB Dramaga . 
 IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen sehingga pada beberapa wilayah yang masih berada di sekitar cakupan kampus IPB menjadi rawan dan beberapa faktor lainnya menyebabkan mahasiswa maupun pelintas yang melalui jalan raya rentan mengalami kecelakaan yang cukup tinggi.Selain itu beberapa mahasiswa terkadang kesulitan untuk mendapatkan akses kesehatan terutama dalam hal pemesanan ambulance.

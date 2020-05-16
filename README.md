@@ -19,34 +19,35 @@ Aplikasi ini diharapkan mampu mewadahi info-info tersebut, sehingga kemudahan in
 ### Rumusan Masalah<br/>
 
 Rumusan masalah yang diangkat dalam proyek "**Jaga.in**” adalah berdasarkan karena adanya:
-1.	Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga,
-2.	Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga
+1.	Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga. <br/>
+2.	Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. <br/>
 
 ### Tujuan<br/>
 
 Adapun tujuan dari pembuatan proyek “**Jaga.in**” yaitu diantaranya:
-1.	Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time.
-2.	Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga.
+1.	Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time. <br/>
+2.	Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga. <br/>
 
 ### Batasan Masalah<br/>
 
 Batasan Masalah pada “**Jaga.in**” ini adalah : 
-1.	Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga
-2.	Setiap user harus memiliki nomer NIK,pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit).
+1.	Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga. <br/>
+2.	Setiap user harus memiliki nomer NIK (kartu identitas). <br/>
+3. Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit). <br/>
 
 ### Solusi Singkat<br/>
 
-Dengan adanya aplikasi Jaga.in maka akan tersedia informasi layanan kesehatan dan juga membantu memudahkan antara user dan admin rumah sakit untuk pemesanan ambulance.Dengan perantara ini diharapkan mahasiswa IPB tidak merasa kesulitan mencari layanan kesehatan dan juga untuk pemesanan ambulance.
+Dengan adanya aplikasi **Jaga.in** maka akan tersedia informasi layanan kesehatan dan juga membantu memudahkan antara user dan admin rumah sakit untuk pemesanan ambulance.Dengan perantara ini diharapkan mahasiswa IPB tidak merasa kesulitan mencari layanan kesehatan dan juga untuk pemesanan ambulance.
  
 ### User Profile<br/>
-Target dari aplikasi Jaga.in adalah mahasiswa IPB yang kebingungan dalam mengakses layanan kesehatan apa saja yang tersedia di lingkungan kampus dan juga mahasiswa yang kesulitan 
+Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam mengakses layanan kesehatan apa saja yang tersedia di lingkungan kampus dan juga mahasiswa yang kesulitan 
 
 ### User Story<br/>
 1.	Sebagai seorang mahasiswa baru, saya kesulitan  mengetahui akses layanan kesehatan apa saja yang tersedia di wilayah sekitar kampus IPB Dramaga.
 2.	Sebagai seorang mahasiswa,saya ingin mengetahui aplikasi apa yang dapat menolong saat emergency case dan saya membutuhkan bantuan pemesanan ambulance secara mendadak.
 3.	Sebagai mahasiswa baru,saya membutuhkan informasi layanan kesehatan beserta jam operasionalnya.
 
-### Skema<br/>
+# Skema<br/>
 
 #### Entity-Relational Diagram<br/>
 

@@ -60,7 +60,7 @@ DESKRIPSI ERD NYA
 
 #### Use Case Diagram
 
-![Gambar Use Case](gambar/Use Case(1).png)
+![Gambar Use Case](gambar/UC.png)
  
 #### Activity Diagram
 

@@ -49,30 +49,30 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 # Skema<br/>
 
-#### Entity-Relational Diagram<br/>
+### Entity-Relational Diagram<br/>
 
 ![GAMBAR ERD NYA](gambar/erd.png)
 DESKRIPSI ERD NYA
 
-#### Diagram Skematik
+### Diagram Skematik
 
 ![GAMBAR ERD NYA](gambar/pipa.png)
 
-#### Use Case Diagram
+### Use Case Diagram
 
 ![Gambar Use Case](gambar/UC.png)
  
-#### Activity Diagram
+### Activity Diagram
 
 ![GAMBAR ACTIVITY DIAGRAM]
  
-#### Class Diagram
+### Class Diagram
 
 ![GAMBAR CLASS DIAGRAM]
 
 ![GAMBAR ERD NYA](gambar/2.png)
 
-#### Gannt Chart
+### Gannt Chart
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)
 
@@ -81,18 +81,12 @@ DESKRIPSI ERD NYA
 
 >Final Mockup :
 https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&scaling=scale-down
-  
-![gambar](gambar/SS1.png)
-![gambar](gambar/SS2.png)
-![gambar](gambar/SS3.png)
-![gambar](gambar/SS4.png)
-![gambar](gambar/SS5.png)
-![gambar](gambar/SS6.png)
-![gambar](gambar/SS7.png)
-![gambar](gambar/SS8.png)
-![gambar](gambar/SS9.png)
-![gambar](gambar/SS10.png)
-![gambar](gambar/SS11.png)
-![gambar](gambar/SS12.png)
-![gambar](gambar/SS13.png)
-![gambar](gambar/SS14.png)
+ 
+### Menu Utama<br/>
+![gambar](gambar/mainmenu.jpg)
+### Order<br/>
+![gambar](gambar/order.jpg)
+### Profile User<br/>
+![gambar](gambar/profil.jpg)
+### Fitur<br/>
+![gambar](gambar/fitur.jpg)

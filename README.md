@@ -66,11 +66,12 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 ![Gambar Use Case](gambar/memperbaharui.png)
 ![Gambar Use Case](gambar/lihatlayanan.jpg)
 ![Gambar Use Case](gambar/memperbarilankes.png)
-![Gambar Use Case](gambar/order ambulance.jpg)
+![Gambar Use Case](gambar/ambulance.jpg)
  
 ## Activity Diagram <br/>
 
 ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)
+![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)

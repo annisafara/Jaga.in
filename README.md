@@ -79,14 +79,17 @@ DESKRIPSI ERD NYA
 
 # Hasil implementasi perangkat lunak
 
->Final Mockup :
+### >Final Mockup :
 https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&scaling=scale-down
+
+### >Trello :
+https://trello.com/b/hApVfo4k/tugas-rpl-gan
  
-### Menu Utama<br/>
+## Menu Utama<br/>
 ![gambar](gambar/mainmenu.jpg)
-### Order<br/>
+## Order<br/>
 ![gambar](gambar/order.jpg)
-### Profile User<br/>
+## Profile User<br/>
 ![gambar](gambar/profil.jpg)
-### Fitur<br/>
+## Fitur<br/>
 ![gambar](gambar/fitur.jpg)

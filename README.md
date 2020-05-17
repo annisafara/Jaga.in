@@ -57,7 +57,7 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 ![GAMBAR ERD NYA](gambar/pipa.png)
 
-## Use Case Diagram<br/>
+## Use Case Diagram
 
 ![Gambar Use Case](gambar/UC.png)
 

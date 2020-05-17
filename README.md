@@ -72,6 +72,10 @@ DESKRIPSI ERD NYA
 
 ![GAMBAR ERD NYA](gambar/2.png)
 
+#### Gannt Chart
+
+![GAMBAR Gannt NYA](gambar/gannt.png)
+
 
 # Hasil implementasi perangkat lunak
 

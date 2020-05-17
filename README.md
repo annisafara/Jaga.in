@@ -49,19 +49,19 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 # Skema<br/>
 
-### Entity-Relational Diagram<br/>
+## Entity-Relational Diagram<br/>
 
 ![GAMBAR ERD NYA](gambar/erd.png)
 
-### Diagram Skematik<br/>
+## Diagram Skematik<br/>
 
 ![GAMBAR ERD NYA](gambar/pipa.png)
 
-### Use Case Diagram<br/>
+## Use Case Diagram<br/>
 
 ![Gambar Use Case](gambar/UC.png)
 
-### Use Case Description<br/>
+## Use Case Description<br/>
 ![Gambar Use Case](gambar/bersihinbug.png)
 ![Gambar Use Case](gambar/memperbaharui.png)
 ![Gambar Use Case](gambar/lihatlayanan.jpg)
@@ -75,11 +75,11 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 ![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)
  
-### Class Diagram<br/>
+## Class Diagram<br/>
 
 ![GAMBAR Class NYA](gambar/2.png)
 
-### Gannt Chart<br/>
+## Gannt Chart<br/>
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)
 

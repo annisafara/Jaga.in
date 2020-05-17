@@ -53,22 +53,22 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 ![GAMBAR ERD NYA](gambar/erd.png)
 
-### Diagram Skematik
+### Diagram Skematik<br/>
 
 ![GAMBAR ERD NYA](gambar/pipa.png)
 
-### Use Case Diagram
+### Use Case Diagram<br/>
 
 ![Gambar Use Case](gambar/UC.png)
 
-### Use Case Description
+### Use Case Description<br/>
 ![Gambar Use Case](gambar/bersihinbug.png)
 ![Gambar Use Case](gambar/memperbaharui.png)
 ![Gambar Use Case](gambar/lihatlayanan.jpg)
 ![Gambar Use Case](gambar/memperbarilankes.png)
 ![Gambar Use Case](gambar/order ambulance.jpg)
  
-### Activity Diagram
+### Activity Diagram<br/>
 
 ![GAMBAR ACTIVITY DIAGRAM](gambar/bersihinbug.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)
@@ -76,16 +76,16 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 ![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)
 ![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)
  
-### Class Diagram
+### Class Diagram<br/>
 
 ![GAMBAR Class NYA](gambar/2.png)
 
-### Gannt Chart
+### Gannt Chart<br/>
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)
 
 
-# Hasil implementasi perangkat lunak
+# Hasil implementasi perangkat lunak<br/>
 
 ### >Final Mockup :
 https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&scaling=scale-down

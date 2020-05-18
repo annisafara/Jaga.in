@@ -18,23 +18,23 @@ Aplikasi ini diharapkan mampu mewadahi info-info tersebut, sehingga kemudahan in
 
 ### Rumusan Masalah<br/>
 
-Rumusan masalah yang diangkat dalam proyek "**Jaga.in**” adalah berdasarkan karena adanya:
+Rumusan masalah yang diangkat dalam proyek **Jaga.in** adalah berdasarkan karena adanya:
 
-  - Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga. <br/>
+  - Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga.
   - Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. 
 
 ### Tujuan<br/>
 
-Adapun tujuan dari pembuatan proyek “**Jaga.in**” yaitu diantaranya:
-1.	Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time. <br/>
-2.	Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga. <br/>
+Adapun tujuan dari pembuatan proyek **Jaga.in** yaitu diantaranya:
+  - Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time.
+  - Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga.
 
 ### Batasan Masalah<br/>
 
-Batasan Masalah pada “**Jaga.in**” ini adalah : 
-1.	Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga. <br/>
-2.	Setiap user harus memiliki nomer NIK (kartu identitas). <br/>
-3. Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit). <br/>
+Batasan Masalah pada **Jaga.in** ini adalah : 
+  - Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga.
+  - Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit).
+  - Setiap user harus memiliki nomer NIK (kartu identitas).
 
 ### Solusi Singkat<br/>
 
@@ -44,9 +44,12 @@ Dengan adanya aplikasi **Jaga.in** maka akan tersedia informasi layanan kesehata
 Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam mengakses layanan kesehatan apa saja yang tersedia di lingkungan kampus dan juga mahasiswa yang kesulitan 
 
 ### User Story<br/>
-1.	Sebagai seorang mahasiswa baru, saya kesulitan  mengetahui akses layanan kesehatan apa saja yang tersedia di wilayah sekitar kampus IPB Dramaga.
-2.	Sebagai seorang mahasiswa,saya ingin mengetahui aplikasi apa yang dapat menolong saat emergency case dan saya membutuhkan bantuan pemesanan ambulance secara mendadak.
-3.	Sebagai mahasiswa baru,saya membutuhkan informasi layanan kesehatan beserta jam operasionalnya.
+> ##### Sebagai seorang mahasiswa baru
+> saya kesulitan  mengetahui akses layanan kesehatan apa saja yang tersedia di wilayah sekitar kampus IPB Dramaga.
+> ##### Sebagai seorang mahasiswa
+> saya ingin mengetahui aplikasi apa yang dapat menolong saat emergency case dan saya membutuhkan bantuan pemesanan ambulance secara mendadak.
+> ##### Sebagai seorang mahasiswa baru
+> saya membutuhkan informasi layanan kesehatan beserta jam operasionalnya.
 
 # Skema<br/>
 

@@ -45,17 +45,17 @@ Dengan adanya aplikasi **Jaga.in** maka akan tersedia informasi layanan kesehata
 ### User Profile<br/>
 Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam mengakses layanan kesehatan apa saja yang tersedia di lingkungan kampus dan juga mahasiswa yang kesulitan 
 
-### User Story<br/>
-> ##### Sebagai seorang mahasiswa baru
+## User Story<br/>
+> #### Sebagai seorang mahasiswa baru
 > saya kesulitan  mengetahui akses layanan kesehatan apa saja yang tersedia di wilayah sekitar kampus IPB Dramaga.
-> ##### Sebagai seorang mahasiswa
+> #### Sebagai seorang mahasiswa
 > saya ingin mengetahui aplikasi apa yang dapat menolong saat emergency case dan saya membutuhkan bantuan pemesanan ambulance secara mendadak.
-> ##### Sebagai seorang mahasiswa baru
+> #### Sebagai seorang mahasiswa baru
 > saya membutuhkan informasi layanan kesehatan beserta jam operasionalnya.
 
 # Skema<br/>
 
-| Skema | Dokumentasi                                                                                                                                                                                                                              |
+| # Skema | # Dokumentasi                                                                                                                                                                                                                              |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  **Diagram ERD**     | **Diagram ERD**<br/><br>                                                                                                                                                                                                                 |
 |       | ![GAMBAR ERD NYA](gambar/erd.png)                                                                                                                                                                                                        |
@@ -66,10 +66,10 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 |  **Use Case Description**     | **Use Case Description**<br/>                                                                                                                                                                                                            |
 |       | ![Gambar Use Case](gambar/bersihinbug.png)<br>![Gambar Use Case](gambar/memperbaharui.png)<br>![Gambar Use Case](gambar/lihatlayanan.jpg)<br>![Gambar Use Case](gambar/memperbarilankes.png)<br>![Gambar Use Case](gambar/ambulance.jpg) |
 
-|  **Activity Diagram**     | **Activity Diagram**<br/><br>                                                                                                                                                                                                            |
+|  **Activity Diagram**     | **Activity Diagram**<br/><br>                                                                                                                                                                                                           |
 |       | ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)                |
 
-|  **Class Diagram**     | **Class Diagram**<br/>                                                                                                                                                                                                                   |
+|  **Class Diagram**    | **Class Diagram**<br/>                                                                                                                                                                                                                   |
 |       | ![GAMBAR Class NYA](gambar/2.png)   
 <br/>
 <br/>

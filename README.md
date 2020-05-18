@@ -84,8 +84,14 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)
 
+## Pembagian kerja dalam Kelompok<br/>
+| Nama               | NIM       | Kontribusi                |
+|--------------------|-----------|---------------------------|
+| Annisa Faradila    | G64180074 | Designeer,Project manager |
+| Arrazzaq adrian    | G64180109 | Backend                   |
+| Hudzaifah Muttaqin | G64180119 | Analyst system            |<br/>
 
-# Hasil implementasi perangkat lunak<br/>
+## Hasil implementasi perangkat lunak<br/>
 
 ### >Final Mockup :
 https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&scaling=scale-down

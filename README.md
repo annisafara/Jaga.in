@@ -19,8 +19,9 @@ Aplikasi ini diharapkan mampu mewadahi info-info tersebut, sehingga kemudahan in
 ### Rumusan Masalah<br/>
 
 Rumusan masalah yang diangkat dalam proyek "**Jaga.in**” adalah berdasarkan karena adanya:
-1.	Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga. <br/>
-2.	Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. <br/>
+
+  - Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga. <br/>
+  - Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. 
 
 ### Tujuan<br/>
 

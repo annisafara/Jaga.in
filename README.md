@@ -15,25 +15,27 @@ IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen seh
 ### Latar Belakang <br/>
 
    Kesehatan merupakan salah satu sektor yang menjadi fokus utama pembangunan pemerintah di Indonesia (Rappler, 2017). Berbagai upaya pemerintah dalam pembangunan di bidang kesehatan telah dilakukan. Mulai dari pemberian subsidi biaya kesehatan, peningkatan sumber daya manusia di sektor kesehatan, peningkatan sumber daya obat dan perbekalan kesehatan, pemberdayaan masyarakat, serta perbaikan manajemen kesehatan (Usman, Widhyharto, & Maika). Pelayanan kesehatan yang baik menjadi salah satu dambaan masyarakat. Mulai dari pelayanan dalam perawatan maupun sampai dengan penyaluran informasi. Namun Prosedur pemberian layanan kesehatan masih terkesan sulit dan membingungkan bagi sebagian orang sehingga penanganan pasien oleh tenaga kesehatan menjadi lambat (Rahim, 2016). Selain itu, masih sulitnya mencari bantuan layanan kesehatan serta aplikasi layanan kesehatan yang belum sesuai harapan (Peraturan Menteri kesehatan, 2017) dan masih banyak masalah-masalah lainnya sehingga diperlukan sebuah cara untuk mengatasi masalah tersebut, meskipun Bidang perawatan sudah diwadahi banyak rumah sakit ataupun lembaga kesehatan lainnya. Namun, segi penyaluran informasi belum sepenuhnya  terpenuhi dengan baik, seperti lokasi dan nomer telfon dari rumah sakit, posko darurat, serta ambulan terdekat. Keadaan mendesak tidak jarang membuat orang sulit berpikir jernih, hal ini menyebabkan suatu masalah menjadi semakin parah dan sulit teratasi. <br/>
-Aplikasi ini diharapkan mampu mewadahi info-info tersebut, sehingga kemudahan informasi seputar pelayanan kesahatan dapat dengan mudah diakses masyarakat khususnya lingkup Dramaga.
+*Aplikasi ini diharapkan mampu mewadahi info-info tersebut, sehingga kemudahan informasi seputar pelayanan kesahatan dapat dengan mudah diakses masyarakat khususnya lingkup Dramaga.*
 
 
 ### Rumusan Masalah<br/>
 
-Rumusan masalah yang diangkat dalam proyek **Jaga.in** adalah berdasarkan karena adanya:
-
+> Rumusan masalah yang diangkat dalam proyek **Jaga.in** adalah berdasarkan karena adanya:
+<br/>
   - Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga.
   - Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. 
 
 ### Tujuan<br/>
 
-Adapun tujuan dari pembuatan proyek **Jaga.in** yaitu diantaranya:
+> Adapun tujuan dari pembuatan proyek **Jaga.in** yaitu diantaranya:
+<br/>
   - Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time.
   - Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga.
 
 ### Batasan Masalah<br/>
 
-Batasan Masalah pada **Jaga.in** ini adalah : 
+> Batasan Masalah pada **Jaga.in** ini adalah : 
+<br/>
   - Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga.
   - Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit).
   - Setiap user harus memiliki nomer NIK (kartu identitas).
@@ -55,7 +57,7 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 # Skema<br/>
 
-| # Skema | # Dokumentasi                                                                                                                                                                                                                              |
+| **Skema** | **Dokumentasi**                                                                                                                                                                                                                              |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |  **Diagram ERD**     | **Diagram ERD**<br/><br>                                                                                                                                                                                                                 |
 |       | ![GAMBAR ERD NYA](gambar/erd.png)                                                                                                                                                                                                        |
@@ -66,10 +68,10 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 |  **Use Case Description**     | **Use Case Description**<br/>                                                                                                                                                                                                            |
 |       | ![Gambar Use Case](gambar/bersihinbug.png)<br>![Gambar Use Case](gambar/memperbaharui.png)<br>![Gambar Use Case](gambar/lihatlayanan.jpg)<br>![Gambar Use Case](gambar/memperbarilankes.png)<br>![Gambar Use Case](gambar/ambulance.jpg) |
 
-|  **Activity Diagram**     | **Activity Diagram**<br/><br>                                                                                                                                                                                                           |
+|  **Activity Diagram**     | **Activity Diagram**<br/>                                                                                                                                                                                                       
 |       | ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)                |
 
-|  **Class Diagram**    | **Class Diagram**<br/>                                                                                                                                                                                                                   |
+|  **Class Diagram**    | **Class Diagram**<br/>                                                                                                                                                                                                                   
 |       | ![GAMBAR Class NYA](gambar/2.png)   
 <br/>
 <br/>

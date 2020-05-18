@@ -1,5 +1,7 @@
 # Jaga.in
 
+![GAMBAR LOGO NYA](logo.png)
+
 ### Nama Anggota Kelompok 4 :
 | Nama               | NIM           |
 |--------------------|---------------|

@@ -21,24 +21,21 @@ IPB Dramaga ditempuh melalui akses jalan raya yang cukup padat dan heterogen seh
 ### Rumusan Masalah<br/>
 
 > Rumusan masalah yang diangkat dalam proyek **Jaga.in** adalah berdasarkan karena adanya:
-<br/>
-> - Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga.
-> - Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. 
+- Kesulitan mendapatkan informasi seputar layanan kesehatan khususnya mahasiswa IPB Dramaga.
+- Belum tersedia aplikasi pemesanan ambulance di IPB Dramaga. 
 
 ### Tujuan<br/>
 
 > Adapun tujuan dari pembuatan proyek **Jaga.in** yaitu diantaranya:
-<br/>
-> - Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time.
-> - Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga.
+- Perantara bagi mahasiswa yang membutuhkan pemesanan ambulance secara real time.
+- Mempermudah pencarian suatu Informasi layanan kesehatan  di Wilayah IPB Dramaga.
 
 ### Batasan Masalah<br/>
 
 > Batasan Masalah pada **Jaga.in** ini adalah : 
-<br/>
-> - Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga.
-> - Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit).
-> - Setiap user harus memiliki nomer NIK (kartu identitas).
+- Aplikasi ini hanya diperuntukkan ruang lingkup Masyarakat IPB Dramaga.
+- Pemesanan ambulance dilakukan dengan perantara pihak ketiga (server admin rumah sakit).
+- Setiap user harus memiliki nomer NIK (kartu identitas).
 
 ### Solusi Singkat<br/>
 

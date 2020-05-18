@@ -57,53 +57,26 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 | Skema | Dokumentasi                                                                                                                                                                                                                              |
 |-------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|       | **Diagram ERD**<br/><br>                                                                                                                                                                                                                 |
+|  **Diagram ERD**     | **Diagram ERD**<br/><br>                                                                                                                                                                                                                 |
 |       | ![GAMBAR ERD NYA](gambar/erd.png)                                                                                                                                                                                                        |
-|       | **Diagram Skematik**<br/>                                                                                                                                                                                                                |
+|  **Diagram Skematik**   | **Diagram Skematik**<br/>                                                                                                                                                                                                                |
 |       | ![GAMBAR ERD NYA](gambar/pipa.png)                                                                                                                                                                                                       |
-|       | **Use Case Diagram**<br/><br>                                                                                                                                                                                                            |
+|  **Use Case Diagram**     | **Use Case Diagram**<br/><br>                                                                                                                                                                                                            |
 |       | ![Gambar Use Case](gambar/UC.png)                                                                                                                                                                                                        |
-|       | **Use Case Description**<br/>                                                                                                                                                                                                            |
+|  **Use Case Description**     | **Use Case Description**<br/>                                                                                                                                                                                                            |
 |       | ![Gambar Use Case](gambar/bersihinbug.png)<br>![Gambar Use Case](gambar/memperbaharui.png)<br>![Gambar Use Case](gambar/lihatlayanan.jpg)<br>![Gambar Use Case](gambar/memperbarilankes.png)<br>![Gambar Use Case](gambar/ambulance.jpg) |
-|       | **Activity Diagram**<br/><br>                                                                                                                                                                                                            |
+
+|  **Activity Diagram**     | **Activity Diagram**<br/><br>                                                                                                                                                                                                            |
 |       | ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)                |
-|       | **Class Diagram**<br/>                                                                                                                                                                                                                   |
+
+|  **Class Diagram**     | **Class Diagram**<br/>                                                                                                                                                                                                                   |
 |       | ![GAMBAR Class NYA](gambar/2.png)   
-## Entity-Relational Diagram<br/>
-
-![GAMBAR ERD NYA](gambar/erd.png)
-
-## Diagram Skematik<br/>
-
-![GAMBAR ERD NYA](gambar/pipa.png)
-
-## Use Case Diagram
-
-![Gambar Use Case](gambar/UC.png)
-
-## Use Case Description<br/>
-![Gambar Use Case](gambar/bersihinbug.png)
-![Gambar Use Case](gambar/memperbaharui.png)
-![Gambar Use Case](gambar/lihatlayanan.jpg)
-![Gambar Use Case](gambar/memperbarilankes.png)
-![Gambar Use Case](gambar/ambulance.jpg)
- 
-## Activity Diagram <br/>
-
-![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)
-![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)
-![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)
-![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)
-![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)
- 
-## Class Diagram<br/>
-
-![GAMBAR Class NYA](gambar/2.png)
-
+<br/>
+<br/>
 ## Gannt Chart<br/>
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)
-
+<br/>
 ## Pembagian kerja dalam Kelompok<br/>
 | Nama               | NIM       | Kontribusi                |
 |--------------------|-----------|---------------------------|

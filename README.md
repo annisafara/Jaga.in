@@ -68,8 +68,7 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 |       | ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)                |
 |       | **Class Diagram**<br/>                                                                                                                                                                                                                   |
 |       | ![GAMBAR Class NYA](gambar/2.png)                                                                                                                                                                                                        |
-<br/>
-<br/>
+
 ## Gannt Chart<br/>
 
 ![GAMBAR Gannt NYA](gambar/gannt.png)

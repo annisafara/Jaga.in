@@ -55,6 +55,15 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 
 # Skema<br/>
 
+| Skema                             | Dokumentasi                                                                                                                                                                                                                              |
+|-----------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ## Entity-Relational Diagram<br/> | ![GAMBAR ERD NYA](gambar/erd.png)                                                                                                                                                                                                        |
+| ## Diagram Skematik<br/>          | ![GAMBAR ERD NYA](gambar/pipa.png)                                                                                                                                                                                                       |
+| ## Use Case Diagram               | ![Gambar Use Case](gambar/UC.png)                                                                                                                                                                                                        |
+| ## Use Case Description<br/>      | ![Gambar Use Case](gambar/bersihinbug.png)<br>![Gambar Use Case](gambar/memperbaharui.png)<br>![Gambar Use Case](gambar/lihatlayanan.jpg)<br>![Gambar Use Case](gambar/memperbarilankes.png)<br>![Gambar Use Case](gambar/ambulance.jpg) |
+| ## Activity Diagram <br/>         | ![GAMBAR ACTIVITY DIAGRAM](gambar/1.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/22.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/3.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/4.png)<br>![GAMBAR ACTIVITY DIAGRAM](gambar/5.png)                |
+| ## Class Diagram<br/>             | ![GAMBAR Class NYA](gambar/2.png)       
+
 ## Entity-Relational Diagram<br/>
 
 ![GAMBAR ERD NYA](gambar/erd.png)

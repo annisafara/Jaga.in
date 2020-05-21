@@ -78,7 +78,7 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 ## Pembagian kerja dalam Kelompok<br/>
 | Nama               | NIM       | Kontribusi                |
 |--------------------|-----------|---------------------------|
-| Annisa Faradila    | G64180074 | Designeer,Project manager |
+| Annisa Faradila    | G64180074 | Designeer,Project manager,Backend |
 | Arrazzaq adrian    | G64180109 | Backend                   |
 | Hudzaifah Muttaqin | G64180119 | Analyst system            |<br/>
 

@@ -6,7 +6,7 @@
     android:layout_height="fill_parent"
     android:gravity="center"
     android:padding="10dp"
-    android:background="@color/bg_login"
+    android:background="#030E48"
     tools:context=".LoginActivity">
     <LinearLayout
         android:layout_width="fill_parent"
@@ -16,17 +16,16 @@
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
         >
-
         <ImageView
             android:id="@+id/imageView"
-            android:layout_width="200dp"
+            android:layout_width="250dp"
             android:layout_height="300dp"
             android:layout_gravity="center_horizontal"
             android:layout_margin="16dp"
-            android:src="@drawable/usericon" />
+            android:src="@drawable/icon" />
 
         <EditText
-            android:id="@+id/email"
+            android:id="@+id/email_lgn"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="Nomor Telfon"
@@ -34,40 +33,44 @@
             android:background="@color/white"
             android:padding="10dp"
             android:layout_marginBottom="20dp"
-            android:textColor="@color/input_login"
-            android:textColorHint="@color/input_login_hint"
+            android:textColor="#222222"
+            android:textColorHint="#999999"
             />
 
         <EditText
-            android:id="@+id/password"
+            android:id="@+id/password_lgn"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginBottom="10dp"
             android:background="@color/white"
-            android:hint="@string/hint_password"
+            android:hint="Password"
             android:inputType="textPassword"
             android:padding="10dp"
             android:singleLine="true"
-            android:textColor="@color/input_login"
-            android:textColorHint="@color/input_login_hint" />
+            android:textColor="#222222"
+            android:textColorHint="#999999" />
 
         <Button
-            android:id="@+id/btnLogin"
+            android:id="@+id/btn_login"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
-            android:text="@string/btn_login"
-            android:background="@color/btn_login_bg"
+            android:text="Log In"
+            android:background="#eceef1"
             android:textColor="@color/black"/>
+
         <Button
-            android:id="@+id/btnLinkToRegisterScreen"
+            android:id="@+id/pdh_regis"
+            android:onClick="pdh_regis"
             android:layout_width="fill_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dip"
-            android:text="@string/btn_link_to_register"
+            android:text="Not A Member? SIGN UP Now!!"
             android:background="@null"
             android:textColor="@color/white"/>
 
-
     </LinearLayout>
+
 </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+

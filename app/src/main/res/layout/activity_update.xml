@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryDark"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_marginTop="30dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        android:text="UPDATE PROFILE"
+        android:textAlignment="center"
+        android:textSize="26dp"/>
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="250dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_margin="16dp"
+        android:src="@drawable/icon" />
+    <LinearLayout
+        android:layout_centerInParent="true"
+        android:layout_width="312dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:id="@+id/unama"
+                android:paddingLeft="5dp"
+                android:hint="Nama Kamu"
+                android:background="@drawable/bg_r"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:paddingBottom="10dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Tempat Lahir"
+                android:background="@drawable/bg_r"
+                android:id="@+id/utmpt"
+                android:paddingLeft="5dp"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Alamat"
+                android:paddingLeft="5dp"
+                android:id="@+id/ualamat"
+                android:background="@drawable/bg_r"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:paddingBottom="10dp" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <EditText
+                android:inputType="date"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Year-Month-Date"
+                android:background="@drawable/bg_r"
+                android:id="@+id/utgl"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:paddingLeft="5dp"
+                android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Jenis Kelamin"
+                android:paddingLeft="5dp"
+                android:id="@+id/ujenkel"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:background="@drawable/bg_r"
+                android:paddingBottom="10dp"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <EditText
+                android:paddingLeft="5dp"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:hint="Golongan Darah"
+                android:id="@+id/ugoldar"
+                android:background="@drawable/bg_r"
+                android:textColor="#CDCF15"
+                android:textColorHint="#CDCF15"
+                android:paddingBottom="10dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_alignParentBottom="true"
+        android:text="UPDATE"
+        android:id="@+id/updatebtn"
+        android:textColor="#DD1F0C "
+        android:backgroundTint="@color/colorSecond"/>
+</RelativeLayout>

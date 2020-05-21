@@ -1,0 +1,246 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimaryDark"
+    tools:context=".profile">
+
+    <LinearLayout
+        android:layout_width="386dp"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:orientation="vertical"
+        android:paddingLeft="16dp"
+        android:paddingTop="50dp"
+        android:paddingRight="16dp"
+        android:paddingBottom="16dp">
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="100dp"
+                android:layout_height="110dp"
+                android:background="@drawable/prof" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="12dp">
+
+                <TextView
+                    android:id="@+id/profnama"
+                    android:layout_width="240dp"
+                    android:layout_height="50dp"
+                    android:paddingLeft="10dp"
+                    android:text="NAMA"
+                    android:textColor="#FFC300"
+                    android:textSize="25dp" />
+
+                <TextView
+                    android:id="@+id/profalamat"
+                    android:layout_width="240dp"
+                    android:layout_height="50dp"
+                    android:paddingLeft="10dp"
+                    android:text="Alamat"
+                    android:textColor="@color/white"
+                    android:textSize="16dp" />
+            </LinearLayout>
+
+        </LinearLayout>
+
+        <TextView
+            android:layout_marginTop="50sp"
+            android:layout_width="360dp"
+            android:layout_height="40dp"
+            android:paddingTop="16dp"
+            android:text="PROFILE"
+            android:textColor="@color/white"
+            android:textSize="20dp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="10dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="No. Telfon"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text=":"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/profemail"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="XXXXXXXXXX"
+                android:textColor="#FFC300"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Tempat Lahir"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text=":"
+                android:textColor="@color/white"
+                android:textSize
+                    ="18dp" />
+
+            <TextView
+                android:id="@+id/proftmpt"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Bumi"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Tanggal Lahir"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text=":"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/proftgl"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="xxxxxx"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Jenis Kelamin"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text=":"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/profjenkel"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Mutan"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal">
+
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="Golongan Darah"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:layout_width="10dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text=":"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+            <TextView
+                android:id="@+id/profgoldar"
+                android:layout_width="180dp"
+                android:layout_height="40dp"
+                android:paddingTop="16dp"
+                android:text="ABCDEFG"
+                android:textColor="@color/white"
+                android:textSize="18dp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+    <Button
+        android:layout_alignParentBottom="true"
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="100sp"
+        android:text="Update"
+        android:textColor="#F90303"/>
+    <Button
+        android:layout_alignParentBottom="true"
+        android:id="@+id/logout"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginBottom="50sp"
+        android:text="Logout"
+        android:textColor="#F90303"/>
+
+</RelativeLayout>

@@ -97,7 +97,7 @@ https://trello.com/b/hApVfo4k/tugas-rpl-gan
 ## Profile User<br/>
 ![gambar](gambar/profil.jpg)
 ## Fitur<br/>
-![gambar](gambar/fr.jpg)
+![gambar](gambar/fitur.jpg)
 
 ## Hasil jadi:
 ![gambar](gambar/a.jpg)

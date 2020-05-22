@@ -97,7 +97,7 @@ https://trello.com/b/hApVfo4k/tugas-rpl-gan
 ### Edit Profil
 ![gambar](gambar/editpro.jpg)
 
-### mock up
+### Mock up
 ## Menu Utama<br/>
 ![gambar](gambar/mainmenu.jpg)
 ## Order<br/>

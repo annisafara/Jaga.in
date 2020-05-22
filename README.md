@@ -93,9 +93,9 @@ https://trello.com/b/hApVfo4k/tugas-rpl-gan
  ## Hasil akhir:
  <br/>
 ### Halaman login
-![gambar](gambar/loginsign.jpg)
+![gambar](picta/loginsign.jpg)
 ### Edit Profil
-![gambar](gambar/editpro.jpg)
+![gambar](picta/editpro.jpg)
 
 ### Mock up
 ## Menu Utama<br/>

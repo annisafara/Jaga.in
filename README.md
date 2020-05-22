@@ -91,15 +91,15 @@ https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&s
 https://trello.com/b/hApVfo4k/tugas-rpl-gan
  
 ## Menu Utama<br/>
-![gambar](c(1).jpg)
+![gambar](mainmenu.jpg)
 ## Order<br/>
-![gambar](c (2).jpg)
+![gambar](order.jpg)
 ## Profile User<br/>
 ![gambar](gambar/profil.jpg)
 ## Fitur<br/>
 ![gambar](gambar/fr.jpg)
 
 ## Hasil jadi:
-![gambar](gambar/c(1).jpg)
-![gambar](gambar/c(2).jpg)
-![gambar](gambar/c(3).jpg)
+![gambar](gambar/a.jpg)
+![gambar](gambar/b.jpg)
+![gambar](gambar/c.jpg)

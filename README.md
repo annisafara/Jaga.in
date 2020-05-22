@@ -80,7 +80,7 @@ Target dari aplikasi **Jaga.in** adalah mahasiswa IPB yang kebingungan dalam men
 |--------------------|-----------|---------------------------|
 | Annisa Faradila    | G64180074 | Designeer,Project manager,Backend |
 | Arrazzaq adrian    | G64180109 | Backend                   |
-| Hudzaifah Muttaqin | G64180119 | Analyst system            |<br/>
+| Hudzaifah Muttaqin | G64180119 | analyst            |<br/>
 
 ## Hasil implementasi perangkat lunak<br/>
 
@@ -91,10 +91,15 @@ https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&s
 https://trello.com/b/hApVfo4k/tugas-rpl-gan
  
 ## Menu Utama<br/>
-![gambar](gambar/mainmenu.jpg)
+![gambar](c(1).jpg)
 ## Order<br/>
-![gambar](gambar/order.jpg)
+![gambar](c (2).jpg)
 ## Profile User<br/>
 ![gambar](gambar/profil.jpg)
 ## Fitur<br/>
-![gambar](gambar/fitur.jpg)
+![gambar](gambar/fr.jpg)
+
+## Hasil jadi:
+![gambar](gambar/c(1).jpg)
+![gambar](gambar/c(2).jpg)
+![gambar](gambar/c(3).jpg)

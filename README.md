@@ -91,9 +91,9 @@ https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&s
 https://trello.com/b/hApVfo4k/tugas-rpl-gan
  
 ## Menu Utama<br/>
-![gambar](mainmenu.jpg)
+![gambar](gambar/mainmenu.jpg)
 ## Order<br/>
-![gambar](order.jpg)
+![gambar](gambar/order.jpg)
 ## Profile User<br/>
 ![gambar](gambar/profil.jpg)
 ## Fitur<br/>

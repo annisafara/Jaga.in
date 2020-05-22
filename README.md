@@ -91,10 +91,10 @@ https://www.figma.com/proto/1JsW8RaHTnjonH39uArdzD/menu-utama?node-id=94%3A946&s
 https://trello.com/b/hApVfo4k/tugas-rpl-gan
 
  ## Hasil akhir:
- <br/>
-### Halaman login
+
+### Halaman login<br/>
 ![gambar](picta/loginsign.jpg)
-### Edit Profil
+### Edit Profil<br/>
 ![gambar](picta/editpro.jpg)
 
 ### Mock up

@@ -2,19 +2,19 @@
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
     <item
-        android:id="@+id/navigation_dashboard"
+        android:id="@+id/navigation_Fitur"
         android:icon="@drawable/jaga"
-        android:title="Jaga.In" />
+        android:title="Rumahsakit" />
 
     <item
         android:id="@+id/navigation_home"
-        android:icon="@drawable/usericon"
+        android:icon="@drawable/jaga"
         android:title="Home" />
 
 
     <item
         android:id="@+id/navigation_notifications"
-        android:icon="@drawable/prof"
+        android:icon="@drawable/jaga"
         android:title="Profile" />
 
 </menu>

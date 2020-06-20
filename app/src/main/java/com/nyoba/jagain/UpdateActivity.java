@@ -25,7 +25,7 @@ public class UpdateActivity extends AppCompatActivity {
     sessionConfig sessionConfig;
     String pemail;
     String pnama;
-    String ptmptlhr;
+    String kota;
     String ptgllhr;
     String palamat;
     String pjk;
@@ -93,14 +93,14 @@ public class UpdateActivity extends AppCompatActivity {
                         pid = response.body().getId();
                         pemail = response.body().getEmail();
                         pnama = response.body().getNama();
-                        ptmptlhr = response.body().getTmptlhr();
+                        kota = response.body().getKota();
                         ptgllhr = response.body().getTgllhr();
                         palamat = response.body().getAlamat();
                         pjk = response.body().getJk();
                         pgoldar = response.body().getGoldar();
 
 
-                        sessionConfig.createSession(pnama,pemail,palamat,ptmptlhr,ptgllhr,pjk,pgoldar,pid);
+                        sessionConfig.createSession(pnama,pemail,palamat, kota,ptgllhr,pjk,pgoldar,pid);
 
                         prd.hide();
                         int success = response.body().getSuccess();

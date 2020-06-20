@@ -19,7 +19,7 @@ public class sessionConfig {
     private static final String LOGIN = "IS_LOGIN";
     public static final String NAME = "NAME";
     public static final String EMAIL = "EMAIL";
-    public static final String TMPTLAHIR = "TMPT_LAHIR";
+    public static final String KOTA = "KOTA";
     public static final String TGLTLAHIR = "TGL_LAHIR";
     public static final String PASSWORD = "PASSWORD";
     public static final String ALAMAT = "ALAMAT";
@@ -33,13 +33,13 @@ public class sessionConfig {
         editor = sharedPreferences.edit();
     }
 
-    public void createSession(String name, String email, String alamat, String tmptlhr, String tgllhr, String jenkel, String goldar , String id){
+    public void createSession(String name, String email, String alamat, String kota, String tgllhr, String jenkel, String goldar , String id){
 
         editor.putBoolean(LOGIN, true);
         editor.putString(NAME, name);
         editor.putString(EMAIL, email);
         editor.putString(ALAMAT, alamat);
-        editor.putString(TMPTLAHIR, tmptlhr);
+        editor.putString(KOTA, kota);
         editor.putString(TGLTLAHIR, tgllhr);
         editor.putString(JENKEL, jenkel);
         editor.putString(GOLDAR, goldar);
@@ -74,7 +74,7 @@ public class sessionConfig {
         user.put(NAME, sharedPreferences.getString(NAME, null));
         user.put(EMAIL, sharedPreferences.getString(EMAIL, null));
         user.put(ALAMAT, sharedPreferences.getString(ALAMAT, "-"));
-        user.put(TMPTLAHIR, sharedPreferences.getString(TMPTLAHIR, "-"));
+        user.put(KOTA, sharedPreferences.getString(KOTA, "-"));
         user.put(TGLTLAHIR, sharedPreferences.getString(TGLTLAHIR, "-"));
         user.put(JENKEL, sharedPreferences.getString(JENKEL, "-"));
         user.put(GOLDAR, sharedPreferences.getString(GOLDAR, "-"));

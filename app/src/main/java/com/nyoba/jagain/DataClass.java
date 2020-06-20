@@ -7,7 +7,7 @@ public class DataClass {
     private String id;
     private String email;
     private String nama;
-    private String tmptlhr;
+    private String kota;
     private String tgllhr;
     private String alamat;
     private String jk;
@@ -37,12 +37,12 @@ public class DataClass {
         this.nama = nama;
     }
 
-    public String getTmptlhr() {
-        return tmptlhr;
+    public String getKota() {
+        return kota;
     }
 
-    public void setTmptlhr(String tmptlhr) {
-        this.tmptlhr = tmptlhr;
+    public void setKota(String kota) {
+        this.kota = kota;
     }
 
     public String getTgllhr() {

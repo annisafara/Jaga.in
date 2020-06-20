@@ -24,7 +24,7 @@ public class LoginActivity extends AppCompatActivity {
     sessionConfig sessionConfig;
     String pemail;
     String pnama;
-    String ptmptlhr;
+    String kota;
     String ptgllhr;
     String palamat;
     String pjk;
@@ -81,14 +81,14 @@ public class LoginActivity extends AppCompatActivity {
                             pid = response.body().getId();
                             pemail = response.body().getEmail();
                             pnama = response.body().getNama();
-                            ptmptlhr = response.body().getTmptlhr();
+                            kota = response.body().getKota();
                             ptgllhr = response.body().getTgllhr();
                             palamat = response.body().getAlamat();
                             pjk = response.body().getJk();
                             pgoldar = response.body().getGoldar();
 
 
-                            sessionConfig.createSession(pnama,pemail,palamat,ptmptlhr,ptgllhr,pjk,pgoldar,pid);
+                            sessionConfig.createSession(pnama,pemail,palamat, kota,ptgllhr,pjk,pgoldar,pid);
 
                             pd.hide();
                             int success = response.body().getSuccess();
@@ -102,7 +102,7 @@ public class LoginActivity extends AppCompatActivity {
                                 Toast.makeText(LoginActivity.this, "password salah", Toast.LENGTH_SHORT).show();
                                 password.setText("");
                             } else if( success == 404){
-                                Toast.makeText(LoginActivity.this, "Nomor belum terdaftar", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(LoginActivity.this, "Email belum terdaftar", Toast.LENGTH_SHORT).show();
                                 password.setText("");
                             }
                         }

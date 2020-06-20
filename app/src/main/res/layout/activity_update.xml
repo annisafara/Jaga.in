@@ -49,7 +49,7 @@
             <EditText
                 android:layout_width="match_parent"
                 android:layout_height="50dp"
-                android:hint="Tempat Lahir"
+                android:hint="Kota"
                 android:background="@drawable/bg_r"
                 android:id="@+id/utmpt"
                 android:paddingLeft="5dp"

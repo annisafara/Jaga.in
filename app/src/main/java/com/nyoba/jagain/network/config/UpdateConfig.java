@@ -15,7 +15,7 @@ public interface UpdateConfig {
                 @Field("id") String id,
                 @Field("nama") String nama,
                 @Field("alamat") String alamat,
-                @Field("tempatlahir") String tempatlahir,
+                @Field("kota") String kota,
                 @Field("tanggallahir") String tanggallahir,
                 @Field("jeniskelamin") String jeniskelamin,
                 @Field("golongandarah") String golongandarah

@@ -73,7 +73,7 @@
                 android:layout_width="150dp"
                 android:layout_height="40dp"
                 android:paddingTop="16dp"
-                android:text="No. Telfon"
+                android:text="Email"
                 android:textColor="@color/white"
                 android:textSize="18dp" />
 
@@ -90,7 +90,7 @@
                 android:layout_width="180dp"
                 android:layout_height="40dp"
                 android:paddingTop="16dp"
-                android:text="XXXXXXXXXX"
+                android:text="XXXXXXXX@gmail.com"
                 android:textColor="#FFC300"
                 android:textSize="18dp" />
 
@@ -105,7 +105,7 @@
                 android:layout_width="150dp"
                 android:layout_height="40dp"
                 android:paddingTop="16dp"
-                android:text="Tempat Lahir"
+                android:text="Kota"
                 android:textColor="@color/white"
                 android:textSize="18dp" />
 

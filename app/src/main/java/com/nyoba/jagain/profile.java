@@ -20,7 +20,7 @@ import java.util.HashMap;
 public class profile extends Fragment {
     TextView pnama;
     sessionConfig sessionConfig;
-    TextView ptmpt;
+    TextView kota;
     TextView pgoldar;
     TextView pjenkel;
     TextView ptgl;
@@ -47,7 +47,7 @@ public class profile extends Fragment {
         palamat = (TextView) profiles.findViewById(R.id.profalamat);
         pemail = (TextView) profiles.findViewById(R.id.profemail);
         ptgl = (TextView) profiles.findViewById(R.id.proftgl);
-        ptmpt = (TextView) profiles.findViewById(R.id.proftmpt);
+        kota = (TextView) profiles.findViewById(R.id.proftmpt);
         pjenkel = (TextView) profiles.findViewById(R.id.profjenkel);
         pgoldar = (TextView) profiles.findViewById(R.id.profgoldar);
 
@@ -57,7 +57,7 @@ public class profile extends Fragment {
         String name = user.get(sessionConfig.NAME);
         String emaili = user.get(sessionConfig.EMAIL);
         String tgllah = user.get(sessionConfig.TGLTLAHIR);
-        String tmpt = user.get(sessionConfig.TMPTLAHIR);
+        String tmpt = user.get(sessionConfig.KOTA);
         String jenkel = user.get(sessionConfig.JENKEL);
         String goldar = user.get(sessionConfig.GOLDAR);
         String alamat = user.get(sessionConfig.ALAMAT);
@@ -65,7 +65,7 @@ public class profile extends Fragment {
         palamat.setText(alamat);
         pemail.setText(emaili);
         ptgl.setText(tgllah);
-        ptmpt.setText(tmpt);
+        kota.setText(tmpt);
         pjenkel.setText(jenkel);
         pgoldar.setText(goldar);
 
@@ -78,7 +78,7 @@ public class profile extends Fragment {
                 i.putExtra("id",id);
                 i.putExtra("nama",name);
                 i.putExtra("alamat",alamat);
-                i.putExtra("tmptlhr",tmpt);
+                i.putExtra("kota",tmpt);
                 i.putExtra("tgllhr",tgllah);
                 i.putExtra("jenkel",jenkel);
                 i.putExtra("goldar",goldar);

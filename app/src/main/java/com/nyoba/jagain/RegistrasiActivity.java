@@ -73,7 +73,7 @@ public class RegistrasiActivity extends AppCompatActivity {
                                 Intent i = new Intent(RegistrasiActivity.this, LoginActivity.class);
                                 startActivity(i);
                             } else if(success == 040) {
-                                Toast.makeText(RegistrasiActivity.this, "Nomor Sudah Terdaftar!", Toast.LENGTH_SHORT).show();
+                                Toast.makeText(RegistrasiActivity.this, "Email Sudah Terdaftar!", Toast.LENGTH_SHORT).show();
                                 password.getText().clear();
                             } else {
                                 Toast.makeText(RegistrasiActivity.this, "Registrasi Gagal", Toast.LENGTH_SHORT).show();

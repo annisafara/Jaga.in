@@ -1,6 +1,5 @@
 package com.nyoba.jagain;
 
-import android.content.Intent;
 import android.os.Bundle;
 import androidx.fragment.app.Fragment;
 import android.text.Html;
@@ -16,7 +15,7 @@ public class home extends Fragment
 {
     TextView pnama;
     sessionConfig sessionConfig;
-    TextView ptmpt;
+    TextView kota;
     TextView pgoldar;
     TextView pjenkel;
     TextView ptgl;
@@ -48,7 +47,7 @@ public class home extends Fragment
         String name = user.get(sessionConfig.NAME);
         String emaili = user.get(sessionConfig.EMAIL);
         String tgllah = user.get(sessionConfig.TGLTLAHIR);
-        String tmpt = user.get(sessionConfig.TMPTLAHIR);
+        String kota = user.get(sessionConfig.KOTA);
         String jenkel = user.get(sessionConfig.JENKEL);
         String goldar = user.get(sessionConfig.GOLDAR);
         String alamat = user.get(sessionConfig.ALAMAT);
